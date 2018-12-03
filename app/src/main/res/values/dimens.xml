@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="portraitTextSize">160sp</dimen>
+    <dimen name="landscapeTextSize">210sp</dimen>
+    <dimen name="xlLandscapeTextSize">640sp</dimen>
+</resources>
